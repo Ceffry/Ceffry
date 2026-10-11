@@ -43,6 +43,10 @@ I came from a background in 3D art and animation, where I spent years thinking a
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat\&logo=unrealengine\&logoColor=white)
 
 ---
+## Certificates
+ See all [Certificates](https://github.com/Ceffry/certificates/tree/main)
+
+---
 
 ## Projects
 

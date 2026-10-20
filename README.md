@@ -91,7 +91,7 @@ Analysed retail market distribution and sales performance using BigQuery SQL and
 
 ---
 
-### Do Green Cities Make People Happy? *(in progress)*
+### Are Greener Cities Happier? *(in progress)*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat\&logo=mysql\&logoColor=white)
